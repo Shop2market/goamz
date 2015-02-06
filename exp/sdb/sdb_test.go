@@ -1,9 +1,9 @@
 package sdb_test
 
 import (
-	"github.com/ncw/goamz/aws"
-	"github.com/ncw/goamz/exp/sdb"
-	"github.com/ncw/goamz/testutil"
+	"github.com/tinygrasshopper/goamz/aws"
+	"github.com/tinygrasshopper/goamz/exp/sdb"
+	"github.com/tinygrasshopper/goamz/testutil"
 	. "launchpad.net/gocheck"
 	"testing"
 )

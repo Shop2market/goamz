@@ -4,7 +4,7 @@ import (
 	"crypto/hmac"
 	"crypto/sha1"
 	"encoding/base64"
-	"github.com/ncw/goamz/aws"
+	"github.com/tinygrasshopper/goamz/aws"
 )
 
 var b64 = base64.StdEncoding
