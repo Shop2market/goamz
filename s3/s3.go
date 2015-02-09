@@ -564,6 +564,7 @@ func (s3 *S3) queryHeaders(req *request, headers Headers, resp interface{}) (Hea
 	if err != nil {
 		return nil, err
 	}
+	defer hresp.Body.Close()
 	return readHeaders(hresp), nil
 }
 
