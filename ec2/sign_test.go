@@ -1,8 +1,8 @@
 package ec2_test
 
 import (
-	"github.com/tinygrasshopper/goamz/aws"
-	"github.com/tinygrasshopper/goamz/ec2"
+	"github.com/Shop2market/goamz/aws"
+	"github.com/Shop2market/goamz/ec2"
 	. "launchpad.net/gocheck"
 )
 

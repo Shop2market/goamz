@@ -1,7 +1,7 @@
 package ec2
 
 import (
-	"github.com/tinygrasshopper/goamz/aws"
+	"github.com/Shop2market/goamz/aws"
 	"time"
 )
 

@@ -1,7 +1,7 @@
 package sdb
 
 import (
-	"github.com/tinygrasshopper/goamz/aws"
+	"github.com/Shop2market/goamz/aws"
 )
 
 func Sign(auth aws.Auth, method, path string, params map[string][]string, headers map[string][]string) {

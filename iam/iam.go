@@ -4,7 +4,7 @@ package iam
 
 import (
 	"encoding/xml"
-	"github.com/tinygrasshopper/goamz/aws"
+	"github.com/Shop2market/goamz/aws"
 	"net/http"
 	"net/url"
 	"strconv"

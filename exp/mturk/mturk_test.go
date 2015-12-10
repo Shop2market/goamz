@@ -1,9 +1,9 @@
 package mturk_test
 
 import (
-	"github.com/tinygrasshopper/goamz/aws"
-	"github.com/tinygrasshopper/goamz/exp/mturk"
-	"github.com/tinygrasshopper/goamz/testutil"
+	"github.com/Shop2market/goamz/aws"
+	"github.com/Shop2market/goamz/exp/mturk"
+	"github.com/Shop2market/goamz/testutil"
 	. "launchpad.net/gocheck"
 	"net/url"
 	"testing"

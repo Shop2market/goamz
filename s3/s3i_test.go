@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/tinygrasshopper/goamz/aws"
-	"github.com/tinygrasshopper/goamz/s3"
-	"github.com/tinygrasshopper/goamz/testutil"
+	"github.com/Shop2market/goamz/aws"
+	"github.com/Shop2market/goamz/s3"
+	"github.com/Shop2market/goamz/testutil"
 	. "launchpad.net/gocheck"
 	"net"
 	"sort"

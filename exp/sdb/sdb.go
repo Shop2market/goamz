@@ -22,7 +22,7 @@ package sdb
 
 import (
 	"encoding/xml"
-	"github.com/tinygrasshopper/goamz/aws"
+	"github.com/Shop2market/goamz/aws"
 	"log"
 	"net/http"
 	"net/http/httputil"

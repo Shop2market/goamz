@@ -1,9 +1,9 @@
 package iam_test
 
 import (
-	"github.com/tinygrasshopper/goamz/aws"
-	"github.com/tinygrasshopper/goamz/iam"
-	"github.com/tinygrasshopper/goamz/testutil"
+	"github.com/Shop2market/goamz/aws"
+	"github.com/Shop2market/goamz/iam"
+	"github.com/Shop2market/goamz/testutil"
 	. "launchpad.net/gocheck"
 	"strings"
 	"testing"

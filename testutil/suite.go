@@ -3,7 +3,7 @@ package testutil
 import (
 	"flag"
 
-	"github.com/tinygrasshopper/goamz/aws"
+	"github.com/Shop2market/goamz/aws"
 	. "launchpad.net/gocheck"
 )
 

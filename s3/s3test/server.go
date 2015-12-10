@@ -6,7 +6,7 @@ import (
 	"encoding/hex"
 	"encoding/xml"
 	"fmt"
-	"github.com/tinygrasshopper/goamz/s3"
+	"github.com/Shop2market/goamz/s3"
 	"io"
 	"io/ioutil"
 	"log"
